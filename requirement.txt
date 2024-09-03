@@ -1,0 +1,8 @@
+os
+requests
+bs4 
+crewai
+langchain_openai
+json
+re
+nltk
